@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import os
 from colorama import Fore, Back, Style
 os.system("clear")
