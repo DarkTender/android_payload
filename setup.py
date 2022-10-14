@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import time
 question = input("Are you install android package for using android_payload.py?[Y/N]: ")
