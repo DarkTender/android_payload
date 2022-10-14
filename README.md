@@ -5,7 +5,7 @@
  
                  git clone https://github.com/DarkTender/android_payload/
  
-                 cd android_python
+                 cd android_payload
  
                  python setup.py
 
